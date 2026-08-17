@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": "dracula",
+    "name": "Dracula",
+    "type": "themes",
+    "version": "1.0.0",
+    "description": "Koyu mor tonlara sahip modern Dracula teması.",
+    "author": "Spotify Customizer",
+    "download_url": ""
+  },
+  {
+    "id": "nord",
+    "name": "Nord",
+    "type": "themes",
+    "version": "1.0.0",
+    "description": "Minimal, temiz ve soğuk tonlara sahip Nord teması.",
+    "author": "Spotify Customizer",
+    "download_url": ""
+  },
+  {
+    "id": "lyrics-plus",
+    "name": "Lyrics+",
+    "type": "extensions",
+    "version": "1.0.0",
+    "description": "Spotify deneyimini geliştiren gelişmiş şarkı sözü extension'ı.",
+    "author": "Spotify Customizer",
+    "download_url": ""
+  },
+  {
+    "id": "music-tools",
+    "name": "Music Tools",
+    "type": "apps",
+    "version": "1.0.0",
+    "description": "Spotify kullanımını geliştiren yardımcı Custom App.",
+    "author": "Spotify Customizer",
+    "download_url": ""
+  }
+]
