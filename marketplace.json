@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "description": "Koyu mor tonlara sahip modern Dracula teması.",
     "author": "Spotify Customizer",
-    "download_url": ""
+    "file": "themes/dracula.zip"
   },
   {
     "id": "nord",
@@ -15,7 +15,7 @@
     "version": "1.0.0",
     "description": "Minimal, temiz ve soğuk tonlara sahip Nord teması.",
     "author": "Spotify Customizer",
-    "download_url": ""
+    "file": "themes/nord.zip"
   },
   {
     "id": "lyrics-plus",
@@ -24,7 +24,7 @@
     "version": "1.0.0",
     "description": "Spotify deneyimini geliştiren gelişmiş şarkı sözü extension'ı.",
     "author": "Spotify Customizer",
-    "download_url": ""
+    "file": "extensions/lyrics-plus.zip"
   },
   {
     "id": "music-tools",
@@ -33,6 +33,6 @@
     "version": "1.0.0",
     "description": "Spotify kullanımını geliştiren yardımcı Custom App.",
     "author": "Spotify Customizer",
-    "download_url": ""
+    "file": "apps/music-tools.zip"
   }
 ]
